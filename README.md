@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Juan Dela Cruz
+# Hi there! 👋 I'm Kyoichi Arisgado
 
 << About Me >>
 
