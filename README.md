@@ -34,7 +34,7 @@ I am Kyoichi Arisgado, a passionate individual with a flair for coding and exper
 
 ## Reach Me
 
-- LinkedIn: [LinkedIn Profile](linkedin_profile_link)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kyoichi-arisgado-41323527b/)
 - Email: kyoichiarisgado@gmail.com
 
 Feel free to connect with me! I'm always open to discussing new ideas and opportunities.
