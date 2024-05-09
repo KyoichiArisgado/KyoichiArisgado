@@ -22,6 +22,8 @@ I am Kyoichi Arisgado, a passionate individual with a flair for coding and exper
 - Programming:
   - Java
   - Javascript
+  - Kotlin
+  - HTML
 
 - Databases:
   - IBM DB2 Cloud
