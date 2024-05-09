@@ -33,6 +33,8 @@ I am Kyoichi Arisgado, a passionate individual with a flair for coding and exper
   - Jaspersoft Studio
   - Eclipse
   - HTML
+  - Android Studio
+  - Firebase
 
 ## Reach Me
 
